@@ -7,6 +7,7 @@ Please see the comments and variables in the Powershell script which have to be 
 I can be used as a scheduled task to run on servers to deliver a mail to the admins mailbox.
 The content of the mail is adjusted by the error codes to collect from the actual log and the their description in the mailbody.
 
+The user used to send the mail has to have the ability to use the mailserver as a relay!
 
 Use a translator if needed to understand/adjust the German comments.
 
