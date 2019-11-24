@@ -1,5 +1,5 @@
 ﻿##################################################################################################################################
-# IIS-Log-Parser V1.1
+# IIS-Log-Parser V1.2
 #
 # Dieses Script durchforstet das neueste IIS-Log nach den in $errorcodes festgelegten Statuscodes, und sendet sie per mail an die 
 # eingestellten Empfänger.
